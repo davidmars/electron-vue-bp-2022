@@ -1,2 +1,1 @@
-# SISmalp
-Sismicité Alpine
+# boilerplate bien de base
